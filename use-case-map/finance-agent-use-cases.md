@@ -17,6 +17,7 @@
 Finance manager asks:
 "Explain why Op Income missed budget and what we need to do for next month to hit budget"<br>
 <div align="center">  
+Agentic System to solve this problem<br>
 ↓<br> 
 1. Data Agent<br>
 Pulls approved budget, actuals, KPI, and prior-period data.<br>
