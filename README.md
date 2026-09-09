@@ -1,2 +1,2 @@
 # Ai-agents-finance-learning
-Repository for my AI-agent learning journey 
+Learning AI agents and their practical use cases across finance
