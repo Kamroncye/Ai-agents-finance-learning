@@ -13,3 +13,8 @@
 - Concepts
 - Python Practice
 - Notes
+
+# 09/24/26
+## Completed
+- Learned about Tracing as a concept pertaining Agents
+- Added notes to my notes file on Tracing and more on RAG because I forgot about it since my last session
