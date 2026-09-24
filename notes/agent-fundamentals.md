@@ -13,10 +13,13 @@ A system that autonomously performs tasks by designing workflows via instruction
 A tool is an external function, API, database, calculator or any other capability that an AI agent can use to complete a tasks outside it's own built-in knowledge or "native tools"
 
 ## Retrieval / RAG
-Retrieval or RAG (Retrieval-Augmented Generation) is a process where an AI or Agent uses an external set of data in combination with the prompt given to it by the user to generate more accurate answers
+Retrieval or RAG (Retrieval-Augmented Generation) is a process where an AI or Agent uses an external set of data in combination with the prompt given to it by the user to generate more accurate answers, RAG improves source grounding
 
 ## Guardrail
 A safety mechanism that keeps AI systems and agents from operating in unsafe, illegal or unwanted ways; it keeps the AI or Agent inside of a predefined boundary
 
 ## Evaluation
 A system or process of measuring the reliability, safety and accuracy in an AI or Agent's results
+
+## Tracing
+Tracing records what happens during an agent run or while the agent is completing a task. This includes: model responses, tool calls (usage), retrieved information, guardrail checks, and handoffs. Tracing improves transparency, debugging, evaluation, and human oversight
